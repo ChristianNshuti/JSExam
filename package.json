@@ -1,0 +1,22 @@
+{
+  "name": "js-exam",
+  "version": "1.0.0",
+  "description": "\"# JS-exam\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristianNshuti/JS-exam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristianNshuti/JS-exam/issues"
+  },
+  "homepage": "https://github.com/ChristianNshuti/JS-exam#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
