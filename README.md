@@ -1,4 +1,3 @@
 "# JS-exam" 
-"# JS-exam" 
-"# JS-exam" 
-"# JSExam" 
+Names: NSHUTI Mulindwa Christian
+Class: Y1C
